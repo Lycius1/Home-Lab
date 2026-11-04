@@ -58,4 +58,4 @@ flowchart LR
 - Containers can inherit the host's DNS, so set it explicitly per container
 - Monitor what you can actually reach: locked-down devices will show as "down"
 "# Home-Lab" 
->>>>>>> 6ae1daa (README.md update)
+
