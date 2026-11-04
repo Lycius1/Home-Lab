@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# Home-Lab
-=======
+## Home-Lab
+
+
 # 🏰 HomeLab
 
 A self-hosted home lab built to learn hands-on networking, virtualisation and defensive security.
